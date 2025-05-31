@@ -1,4 +1,4 @@
-# H2 Referências
+# Referências
 
 Impacto do machado:
 Referência à destruição que a personagem causa ao diamante, tempo 1:10.
