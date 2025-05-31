@@ -6543,7 +6543,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":5.0,"y":15.0,"z":5.0}}'
+      m_SerializableObject: '{"vector":{"x":7.0,"y":15.0,"z":0.0}}'
     m_Space: 0
   m_Property:
     name: A
@@ -6713,7 +6713,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":-5.0,"y":5.0,"z":-5.0}}'
+      m_SerializableObject: '{"vector":{"x":-7.0,"y":5.0,"z":-5.0}}'
     m_Space: 0
   m_Property:
     name: B
